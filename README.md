@@ -1,3 +1,3 @@
-Create a logging library using Go
+### Create a logging library using Go
 
 An online "live project exercise" for a logger library written in Go...
